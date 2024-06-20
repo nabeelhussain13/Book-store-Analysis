@@ -1,0 +1,26 @@
+Book_ID,Book Name,Publisher,ISBN,Edition,Number of Pages,Sales,City,Price (USD)
+1,To Kill a Mockingbird,J.B. Lippincott,978-0061120084,1st,324,1500,New York,18.99
+2,1984,Secker & Warburg,978-0451524935,1st,328,1700,Los Angeles,15.99
+3,The Great Gatsby,Scribner,978-0743273565,1st,180,1300,Chicago,14.99
+4,The Catcher in the Rye,"Little, Brown",978-0316769488,1st,214,1400,Houston,10.99
+5,Pride and Prejudice,T. Egerton,978-1503290563,2nd,279,1200,New York,9.99
+6,The Hobbit,Allen & Unwin,978-0547928227,2nd,310,1800,Philadelphia,14.99
+7,Fahrenheit 451,Ballantine Books,978-1451673319,1st,158,1600,Los Angeles,13.99
+8,Jane Eyre,"Smith, Elder",978-0141441146,3rd,500,1100,San Diego,11.99
+9,Brave New World,Chatto & Windus,978-0060850524,1st,268,1250,Philadelphia,12.99
+10,The Lord of the Rings,Allen & Unwin,978-0618640157,4th,1178,1900,Chicago,25.99
+11,Animal Farm,Secker & Warburg,978-0451526342,1st,112,1550,Austin,9.99
+12,Gone with the Wind,Macmillan,978-1416548942,1st,1037,1400,San Antonio,24.99
+13,The Chronicles of Narnia,Geoffrey Bles,978-0066238500,3rd,768,1300,San Francisco,22.99
+14,The Book Thief,Picador,978-0375842207,1st,552,1200,Columbus,12.99
+15,The Hunger Games,Scholastic Press,978-0439023481,1st,374,1700,San Diego,10.99
+16,Harry Potter and the Sorcerer's Stone,Bloomsbury,978-0590353427,1st,309,2000,Fort Worth,16.99
+17,The Fault in Our Stars,Dutton Books,978-0525478812,1st,313,1450,Austin,11.99
+18,The Alchemist,HarperOne,978-0062315007,2nd,208,1600,Seattle,14.99
+19,Moby Dick,Harper & Brothers,978-1503280786,1st,635,1100,Denver,12.99
+20,War and Peace,The Russian Messenger,978-0199232765,1st,1225,1000,Washington,29.99
+21,Great Expectations,Chapman & Hall,978-0141439563,1st,505,1200,San Antonio,13.99
+22,The Shining,Doubleday,978-0307743657,1st,659,1450,Denver,15.99
+23,Crime and Punishment,The Russian Messenger,978-0486415871,1st,430,950,Columbus,11.99
+24,The Da Vinci Code,Doubleday,978-0307474278,1st,489,1750,Seattle,19.99
+25,The Catch-22,Simon & Schuster,978-1451626650,1st,453,1600,San Francisco,14.99
